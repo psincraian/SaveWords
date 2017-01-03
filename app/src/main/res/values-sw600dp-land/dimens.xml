@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="layout_exam_margin">200dp</dimen>
+</resources>

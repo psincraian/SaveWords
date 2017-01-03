@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Save Words</string>
+    <string name="start_exam">Start exam</string>
+    <string name="words">Words</string>
+    <string name="exams">Exams</string>
+    <string name="word">Word</string>
+    <string name="translation">Translation</string>
+    <string name="add_word">Add word</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_exams">Exam</string>
+    <string name="word_translation_exists">This translation exists</string>
+    <string name="word_translation_added">Added correctly</string>
+    <string name="internal_error">Internal error</string>
+    <string name="word_translation_empty">The text cannot be empty</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="end_exam_information"><b>Hits:</b> %1$d <b>Miss:</b> %2$d</string>
+    <string name="accept">Accept</string>
+    <string name="insufficient_words_error">You need %1$d words to start an exam</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Oops, the solution is %1$s</string>
+</resources>
